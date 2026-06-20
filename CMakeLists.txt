@@ -56,9 +56,9 @@ if (NOT PLUGIN_ROOT_DIR)
 endif()
 
 add_library(ielts-writer MODULE
-  IeltsWriter.h
-  IeltsWriter.cpp
-  IeltsWriter.ui
+  IELTSWriter.h
+  IELTSWriter.cpp
+  IELTSWriter.ui
   
   ${PLUGIN_ROOT_DIR}/Bus.cpp
   ${PLUGIN_ROOT_DIR}/Bus.h

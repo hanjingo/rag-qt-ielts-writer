@@ -1,8 +1,8 @@
 {
-    "PluginId": "chatbox-v0.0.1",
+    "PluginId": "ielts-writer-v0.0.1",
     "Version": "0.0.1",
-    "Name": "chatbox",
-    "Description": "this plugin provides a chatbox widget for the rag-qt framework",
+    "Name": "ielts-writer",
+    "Description": "this plugin provides an IELTS writing widget for the rag-qt framework",
     "Author": "hehehunanchina@live.com",
     "Organization": "rag-qt",
     "Dependencies": []
